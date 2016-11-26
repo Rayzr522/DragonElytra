@@ -1,0 +1,12 @@
+main: com.rayzr522.dragonelytra.DragonElytra
+name: DragonElytra
+version: 1.0.0
+description: A bukkit plugin
+author: [Rayzr]
+#depend: [PerceiveCore]
+#commands:
+#  dragonelytra:
+#    description: DragonElytra main command
+#    aliases: [alias1,alias2]
+#    usage: "/dragonelytra [command]"
+#    permission: DragonElytra.main
